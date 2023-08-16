@@ -1,0 +1,14 @@
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Users\HESOLTEK\Documents\Visual Studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.manifest
+C:\Users\HESOLTEK\Documents\Visual Studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.application
+C:\Users\HESOLTEK\Documents\Visual Studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe.manifest
+C:\Users\HESOLTEK\Documents\Visual Studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.application
